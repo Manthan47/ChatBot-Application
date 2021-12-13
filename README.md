@@ -19,3 +19,7 @@ MessagingAdapter.kt:
 In this file I have created RecyclerViewAdapter for sending and receiving messages. 
 
 Note: Please type !command for usage.
+
+Screenshot:
+
+![main](https://user-images.githubusercontent.com/65906093/145800182-7453dfc7-5873-4ab6-8bfc-06202f8cdbd3.png)
